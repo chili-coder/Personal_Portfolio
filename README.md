@@ -1,3 +1,3 @@
 # Personal_Portfolio
  Personal Portfolio Flutter Application Design for Mobile, Tab, Web
-![Personal Portfolio](https://user-images.githubusercontent.com/74148269/177055673-6c9513eb-d314-44a3-a4f0-bb9cf3678d5c.png)
+![Personal Portfolio (1)](https://user-images.githubusercontent.com/74148269/177055735-7e6b1b71-7733-48d7-8ea7-fa2dce634351.png)
